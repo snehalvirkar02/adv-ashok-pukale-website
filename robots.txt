@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snehalvirkar02.github.io/adv-ashok-pukale-website/sitemap.xml
